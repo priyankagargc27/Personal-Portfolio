@@ -6,7 +6,8 @@ body {
   line-height: 125%; }
 
 p {
-  font-family: "Open Sans", sans-serif; }
+  font-family: "Times New Roman", Times, serif;
+  font-size:20px; }
 
 .navbar {
   position: fixed;
@@ -106,7 +107,10 @@ p {
   margin-top: 10px;
   text-align: justify;
   font-size: 12px;
-  text-decoration: none; }
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+  font-size :  20px;
+}
 
 .contact-body {
   text-align: center; }
@@ -117,3 +121,10 @@ p {
   color: white;
   margin-top: 65px;
   padding-bottom: 9px; }
+  
+  
+  .nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    font-size: 20px;
+}
